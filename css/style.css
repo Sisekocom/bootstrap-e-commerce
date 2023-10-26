@@ -5,3 +5,12 @@
    margin: 0;
    padding: 0;
    box-sizing: border-box;}
+
+   /* style for logo /*/
+
+   img[alt="logo"]{
+   
+    width: 5rem;
+    background-color: black;
+   }
+  
